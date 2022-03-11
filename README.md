@@ -6,7 +6,7 @@ Full-stack web developer from Dhaka, Bangladesh. I have rich experience in larav
 Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/about/team)** ([Appsero](https://appsero.com) Project).
 
 ## Technologies
-- C
+- C and C++
 - Python
 - PHP - Larvel, Wordpress...
 - Javascript - Vue JS, Nuxt JS, React JS, Node JS, Express JS, jQuery... 

@@ -8,6 +8,7 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 ## Technologies
 - C and C++
 - Python
+- Go Lang
 - PHP - Larvel, Wordpress...
 - Javascript - Vue JS, Nuxt JS, React JS, Node JS, Express JS, jQuery... 
 - HTML

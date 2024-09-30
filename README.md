@@ -52,6 +52,7 @@ Let's bring our coding prowess together and shape the future! 🌐✨
 
 - [Freescout Stripe Modules](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module)
 - [Freescout Fastspring Modules](https://github.com/weDevsOfficial/freescout-fastspring-module)
+- [Laravel Auto Updater](https://github.com/anisAronno/laravel-auto-updater)
 - [Laravel Media Gallery](https://github.com/anisAronno/Laravel-Media-Gallery)
 - [Laravel Media Helper](https://github.com/anisAronno/Laravel-Media-Helper)
 - [Laravel Settings](https://github.com/anisAronno/laravel-settings)

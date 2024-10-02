@@ -6,7 +6,7 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 
 🛠️ **Tech Stack:**
 
-- **Languages:** PHP, Python, Golang, JavaScript, TypeScript
+- **Languages:** PHP, Python, JavaScript, TypeScript
 - **Web Frameworks:** Laravel, Node.js, Express.js, React.js, Vue.js & WordPress
 - **Databases:** MySQL, PostgreSQL, Google Datastore, MongoDB, DynamoDB, Redis
 - **Cloud & Infrastructure:** GCP, AWS, Docker, Git

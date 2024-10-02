@@ -8,7 +8,7 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 
 - **Languages:** PHP, Python, JavaScript, TypeScript
 - **Web Frameworks:** Laravel, Node.js, Express.js, React.js, Vue.js & WordPress
-- **Databases:** MySQL, PostgreSQL, Google Datastore, MongoDB, DynamoDB, Redis
+- **Databases:** MySQL, PostgreSQL, Google Datastore, MongoDB, Redis
 - **Cloud & Infrastructure:** GCP, AWS, Docker, Git
 
 💼 Currently a **Software Engineer** at [weDevs](https://wedevs.com/about/team), contributing to groundbreaking projects:

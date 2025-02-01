@@ -11,14 +11,6 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 - **Databases:** MySQL, PostgreSQL, Google Datastore, MongoDB, Redis
 - **Cloud & Infrastructure:** GCP, AWS, Docker, Git
 
-💼 Currently a **Software Engineer** at [weDevs](https://wedevs.com/about/team), contributing to groundbreaking projects:
-
-1. 🔍 **[Appsero](https://appsero.com):** Revolutionizing plugin and theme management in the WordPress developer realm.
-
-2. 📧 **[weMail](https://getwemail.io):** Empowering seamless email communication for effortless campaigns.
-
-Let's bring our coding prowess together and shape the future! 🌐✨
-
 <div style="display: flex;">
   <a align="bottom" href="https://github.com/anisAronno/anisAronno/raw/main/anisAronno.pdf" download>Download Resume </a>
   <img align="top" src="https://img.icons8.com/windows/32/000000/download--v1.png"/>

@@ -2,7 +2,7 @@
 
 **🚀 Full-Stack Software Engineer 🚀**
 
-Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangladesh, specializing in the dynamic duo of Laravel and Vue.js. My coding journey began in 2018, and I've since mastered an array of languages and technologies, including:
+Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangladesh, specializing in the dynamic duo of Laravel and Vue.js. My coding journey began in 2017, and I've since mastered an array of languages and technologies, including:
 
 🛠️ **Tech Stack:**
 

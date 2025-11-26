@@ -43,8 +43,6 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 - [Freescout Stripe Modules](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module)
 - [Freescout Fastspring Modules](https://github.com/weDevsOfficial/freescout-fastspring-module)
 - [Laravel Auto Updater](https://github.com/anisAronno/laravel-auto-updater)
-- [Laravel Media Gallery](https://github.com/anisAronno/Laravel-Media-Gallery)
-- [Laravel Media Helper](https://github.com/anisAronno/Laravel-Media-Helper)
 - [Laravel Settings](https://github.com/anisAronno/laravel-settings)
 
 ### Laravel Projects

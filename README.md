@@ -38,8 +38,6 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anisAronno&layout=compact&theme=radical&count_private=true)](https://github.com/anisAronno)
-
 ### Laravel Packages
 
 - [Freescout Stripe Modules](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module)
@@ -51,6 +49,7 @@ Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangla
 
 ### Laravel Projects
 
+- [MyGP Backend](https://play.google.com/store/apps/details?id=com.portonics.mygp&hl=en) (Team Member)
 - [Appsero Microservice Project](https://appsero.com) (Team Member)
 - [weMail Microservice Project](https://getwemail.io) (Team Member)
 - [Multiperpose Admin Panel BoilerPlate](https://github.com/anisAronno/multipurpose-admin-panel-boilerplate)

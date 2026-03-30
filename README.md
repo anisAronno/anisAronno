@@ -46,54 +46,49 @@ I'm a **Senior Software Engineer** at **[Brain Station 23](https://brainstation-
 <p align="center"><strong>Databases & Caching</strong><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 &nbsp;
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-<img src="https://img.shields.io/badge/Google_Datastore-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Datastore"/></p>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Datastore-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></p>
 
 <p align="center"><strong>DevOps & Infrastructure</strong><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,git,nginx" /></p>
 
 <p align="center"><strong>Messaging, Architecture & Tooling</strong><br/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/Microservices-6E40C9?style=flat-square" alt="Microservices"/>
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC"/>
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API"/></p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-6E40C9?style=flat-square" />
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" /></p>
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-<a href="https://github.com/anisAronno/multipurpose-admin-panel-boilerplate">
-<img src="https://gh-card.dev/repos/anisAronno/multipurpose-admin-panel-boilerplate.svg?theme=dark_dimmed" alt="multipurpose-admin-panel-boilerplate"/></a>
-&nbsp;
-<a href="https://github.com/anisAronno/laravel-starter">
-<img src="https://gh-card.dev/repos/anisAronno/laravel-starter.svg?theme=dark_dimmed" alt="laravel-starter"/></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anisAronno/laravel-self-updater">
-<img src="https://gh-card.dev/repos/anisAronno/laravel-self-updater.svg?theme=dark_dimmed" alt="laravel-self-updater"/></a>
-&nbsp;
-<a href="https://github.com/anisAronno/node-and-vue-fullstack-boilerplate">
-<img src="https://gh-card.dev/repos/anisAronno/node-and-vue-fullstack-boilerplate.svg?theme=dark_dimmed" alt="node-and-vue-fullstack-boilerplate"/></a>
-</p>
-
 <details>
-<summary><b>📦 More Notable Work</b></summary>
+<summary><h2 style="display:inline; padding:10px;">📦 Some Notable Work</h2></summary>
 <br/>
 
-**Laravel Packages**
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|------------|
+| [multipurpose-admin-panel-boilerplate](https://github.com/anisAronno/multipurpose-admin-panel-boilerplate) | Scalable admin panel boilerplate with modular architecture |
+| [laravel-starter](https://github.com/anisAronno/laravel-starter) | Production-ready Laravel starter kit |
+| [laravel-self-updater](https://github.com/anisAronno/laravel-self-updater) | Auto-update Laravel apps from Git providers |
+| [node-and-vue-fullstack-boilerplate](https://github.com/anisAronno/node-and-vue-fullstack-boilerplate) | Fullstack Node.js + Vue microservice-ready boilerplate |
+
+---
+
+### 📦 Laravel Packages
 
 | Package | Description |
 |---------|-------------|
 | [laravel-self-updater](https://github.com/anisAronno/laravel-self-updater) | Auto-update Laravel apps from GitHub, GitLab, Bitbucket or custom endpoints |
 | [laravel-settings](https://github.com/anisAronno/laravel-settings) | Flexible settings management for Laravel |
-| [Freescout Stripe Module](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module) | FreeScout ⬌ Stripe integration (7★) |
+| [Freescout Stripe Module](https://github.com/weDevsOfficial/Laravel-FreeScout-Stripe-Module) | FreeScout ⬌ Stripe integration |
 | [Freescout Fastspring Module](https://github.com/weDevsOfficial/freescout-fastspring-module) | FreeScout ⬌ Fastspring integration |
 
-**Commercial Projects**
+---
+
+### 🏢 Commercial Projects
 
 | Project | Role | Scale |
 |---------|------|-------|

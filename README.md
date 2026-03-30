@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8B5CF6,100:A78BFA&height=180&section=header&text=Anichur%20Rahaman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%40+Brain+Station+23;Building+Systems+for+23M%2B+Daily+Active+Users;PHP+%7C+Laravel+%7C+Vue.js+%7C+Node.js+%7C+Microservices;Open+Source+Author+%7C+153%2B+Repos+%7C+Since+2017)](https://github.com/anisAronno)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%40+Brain+Station+23;PHP+%7C+Laravel+%7C+ReactJS+%7C+Vue.js+%7C+Node.js+%7C+Microservices;Open+Source+Author+%7C+200%2B+Repos+%7C+Since+2017)](https://github.com/anisAronno)
 
 <br/>
 
@@ -30,7 +30,7 @@ I'm a **Senior Software Engineer** at **[Brain Station 23](https://brainstation-
 - 🏗️ **Before that:** Web Application Developer @ [Alesha Tech](https://aleshamart.com) *(Apr 2021 – Nov 2021)* — Optimized high-traffic e-commerce & LMS platforms
 - 📦 **Open Source:** Author of [laravel-self-updater](https://github.com/anisAronno/laravel-self-updater), [multipurpose-admin-panel-boilerplate](https://github.com/anisAronno/multipurpose-admin-panel-boilerplate), [laravel-starter](https://github.com/anisAronno/laravel-starter)
 - 🌱 **Currently exploring:** Go · GraphQL · Advanced Kafka streams · Kubernetes operators
-- 🏆 **Highlights:** Mentored 50+ developers · 1,900+ contributions/year · 153+ public repositories · Reduced release cycles by 60% with modern CI/CD pipelines
+- 🏆 **Highlights:** Mentored 20+ developers · 1,900+ contributions/year · 153+ public repositories · Reduced release cycles by 60% with modern CI/CD pipelines
 - 📄 **[Download CV](https://github.com/anisAronno/anisAronno/raw/main/anisAronno.pdf)**
 
 ---
@@ -66,16 +66,18 @@ I'm a **Senior Software Engineer** at **[Brain Station 23](https://brainstation-
 
 <p align="center">
 <a href="https://github.com/anisAronno/multipurpose-admin-panel-boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anisAronno&repo=multipurpose-admin-panel-boilerplate&theme=tokyonight&hide_border=true" alt="multipurpose-admin-panel-boilerplate"/></a>
+<img src="https://gh-card.dev/repos/anisAronno/multipurpose-admin-panel-boilerplate.svg?theme=dark_dimmed" alt="multipurpose-admin-panel-boilerplate"/></a>
+&nbsp;
 <a href="https://github.com/anisAronno/laravel-starter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anisAronno&repo=laravel-starter&theme=tokyonight&hide_border=true" alt="laravel-starter"/></a>
+<img src="https://gh-card.dev/repos/anisAronno/laravel-starter.svg?theme=dark_dimmed" alt="laravel-starter"/></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/anisAronno/laravel-self-updater">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anisAronno&repo=laravel-self-updater&theme=tokyonight&hide_border=true" alt="laravel-self-updater"/></a>
+<img src="https://gh-card.dev/repos/anisAronno/laravel-self-updater.svg?theme=dark_dimmed" alt="laravel-self-updater"/></a>
+&nbsp;
 <a href="https://github.com/anisAronno/node-and-vue-fullstack-boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anisAronno&repo=node-and-vue-fullstack-boilerplate&theme=tokyonight&hide_border=true" alt="node-and-vue-fullstack-boilerplate"/></a>
+<img src="https://gh-card.dev/repos/anisAronno/node-and-vue-fullstack-boilerplate.svg?theme=dark_dimmed" alt="node-and-vue-fullstack-boilerplate"/></a>
 </p>
 
 <details>
@@ -107,8 +109,15 @@ I'm a **Senior Software Engineer** at **[Brain Station 23](https://brainstation-
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anisAronno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisAronno&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=css,html,scss" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anisAronno&theme=tokyonight" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anisAronno&theme=tokyonight" alt="Top Languages"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anisAronno&theme=tokyonight" alt="Most Committed Language"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anisAronno&theme=tokyonight" width="98%" alt="Profile Details"/>
 </p>
 
 <p align="center">
@@ -120,12 +129,6 @@ I'm a **Senior Software Engineer** at **[Brain Station 23](https://brainstation-
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anisAronno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
 
 ---
 

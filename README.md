@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8B5CF6,100:A78BFA&height=180&section=header&text=Anichur%20Rahaman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=17" width="100%"/>
 
-Greetings! 👋 I'm a passionate Full-Stack Web Developer based in Dhaka, Bangladesh, specializing in the dynamic duo of Laravel and Vue.js. My coding journey began in 2017, and I've since mastered an array of languages and technologies, including:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%40+Brain+Station+23;Building+Systems+for+23M%2B+Daily+Active+Users;PHP+%7C+Laravel+%7C+Vue.js+%7C+Node.js+%7C+Microservices;Open+Source+Author+%7C+153%2B+Repos+%7C+Since+2017)](https://github.com/anisAronno)
 
 <br/>
